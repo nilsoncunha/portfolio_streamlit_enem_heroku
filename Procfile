@@ -1,0 +1,1 @@
+web: streamlit run prevendo_nota_de_matematica_do_enem_2016.py
